@@ -1,0 +1,6 @@
+myvar = "sharu"
+my_var = "sharu"
+_my_var = "sharu"
+myVar = "sharu"
+MYVAR = "sharu"
+myvar2 = "sharu"
